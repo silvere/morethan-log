@@ -47,9 +47,9 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: true,
+    enable: false,
     config: {
-      repo: "silvere/not-just-ai",
+      repo: "silvere/morethan-log",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
